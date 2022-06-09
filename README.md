@@ -7,7 +7,7 @@
 
 - ⚡ Curiosidade: Sou Apaixonado por Rock, Drones e Aviões
 
-- 📫 Como entrar em contato comigo: [...](https://andresoares.dev.br/)
+- 📫 Como entrar em contato comigo: [André Soares](https://andresoares.dev.br/)
 
 ### Linguagens que programo
 

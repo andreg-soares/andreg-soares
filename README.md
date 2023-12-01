@@ -1,11 +1,11 @@
 ### Olá pessoal 👋
 
 
-- 🔭 Atualmente estou trabalhando em um sistema para drones agriculas
+- 🔭 Atualmente estou trabalhando em um sistema para drones agriculas e maquinas de cartão
 
-- 🌱 Atualmente estou aprendendo NextJS, React Native
+- 🌱 Atualmente estou aprendendo NextJS, Flutter
 
-- ⚡ Curiosidade: Sou Apaixonado por Rock, Drones e Aviões
+- ⚡ Curiosidade: Sou Apaixonado por Inovação, Rock, Drones e Aviões
 
 - 📫 Como entrar em contato comigo: [André Soares](https://andresoares.dev.br/)
 

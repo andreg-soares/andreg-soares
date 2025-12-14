@@ -13,7 +13,7 @@ Meu portfólio é um **site em uma única página**, com rolagem suave, totalmen
 - 🇺🇸 English (en-US)  
 - 🇪🇸 Español (es-ES)
 
-🔗 **Portfólio online:** _(em breve / link do deploy)_
+🔗 **Portfólio online:** https://andresoares.dev.br/
 
 ### O que você encontra no portfólio
 - Sobre mim (engenharia + produto)
@@ -89,22 +89,6 @@ Cada projeto relevante possui:
 - Solução
 - Stack utilizada
 - Decisões de arquitetura
-
----
-
-## 📄 Currículo (CV)
-
-Meu currículo está disponível **na mesma página do portfólio**, com opção de **download em PDF** nos três idiomas:
-
-- 🇧🇷 CV – Português
-- 🇺🇸 Resume – English
-- 🇪🇸 CV – Español
-
-Formato pensado para:
-- Recrutadores
-- Clientes
-- Parcerias técnicas
-- Projetos internacionais
 
 ---
 
